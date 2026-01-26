@@ -1,4 +1,4 @@
-## Second Year Students-Anuja Kumari,Amrita Nair
+## Second Year Students-Anuja Kumari,Amritha S Nair
 - Run experiments
 - Modify code
 - Analyze results
